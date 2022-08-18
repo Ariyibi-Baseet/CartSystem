@@ -15,10 +15,11 @@ let cartList = [];
 let itemQty = []
 let totalItemPrice = []
 // function to fetch product data api
-let url = '';
+fetchData();
+
 function fetchData()
 {
-    fetch("../data/product.json").then((response) => response.json()
+    fetch('./product.json').then((response) => response.json()
     ).then((data) => {
         let allData = data.data;
         allData2 = data.data;
