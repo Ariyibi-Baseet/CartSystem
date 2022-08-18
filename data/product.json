@@ -1,0 +1,76 @@
+{
+    "data": [
+      {
+        "itemId": 1,
+        "name": "Infinix Smart 6 Plus",
+        "price": 90,
+        "shortDescription": "Display: 6.70-inch (1080x2412)",
+        "description": "Infinix Smart 6 Plus will go on sale in India today via Flipkart. The new Infinix smartphone is available for purchase in Crystal Violet, Tranquil Sea Blue, and Miracle Black colour options and comes with a price tag of Rs. 7,999. It is powered by a MediaTek Helio G25 SoC coupled with 3GB of RAM. Infinix Smart 6 Plus mobile was launched on 29th July 2022. The phone comes with a 6.82-inch touchscreen display. Infinix Smart 6 Plus is powered by an octa-core MediaTek Helio G25 processor. It comes with 2GB, 3GB of RAM. The Infinix Smart 6 Plus runs Android 12 (Go edition) and is powered by a 5000mAh battery",
+        "manufacturer": "Infinix",
+        "Image": "img/Infinix_Smart_6_Plus.jpg"
+      },
+      {
+        "itemId": 2,
+        "name": "Asus ZenFone 9",
+        "price": 50,
+        "shortDescription": "Display: 6.70-inch (1080x2412)",
+        "description": "Asus ZenFone 9 mobile was launched on 28th July 2022. The phone comes with a 120 Hz refresh rate 5.90-inch touchscreen display offering a resolution of 1080x2400 pixels (HD+) and an aspect ratio of 20:9. The display sports Gorilla Glass for protection.Asus ZenFone 9 comes with 8GB of RAM. The Asus ZenFone 9 runs Android 12 and is powered by a 4300mAh battery.",
+        "manufacturer": "Asus",
+        "Image": "img/Asus_ZenFone_9.png"
+      },
+      {
+        "itemId": 3,
+        "name": "Infinix Hot12 Pro",
+        "price": 30,
+        "shortDescription": "Display: 6.70-inch (1080x2412)",
+        "description": "Infinix Hot 12 Pro mobile was launched on 2nd August 2022. The phone comes with a 90 Hz refresh rate 6.60-inch touchscreen display offering a resolution of 1612x720 pixels (HD+). Infinix Hot 12 Pro is powered by an octa-core Unisoc T616 processor. It comes with 6GB, 8GB of RAM. The Infinix Hot 12 Pro runs Android 12 and is powered by a 5000mAh battery. The Infinix Hot 12 Pro supports proprietary fast charging.",
+        "manufacturer": "Tecno",
+        "Image": "img/Infinix_Hot_12.png"
+      },
+      {
+        "itemId": 4,
+        "name": "Itel A23S",
+        "price": 10,
+        "shortDescription": "Display: 6.70-inch (1080x2412)",
+        "description": "Itel A23S mobile was launched on 26th July 2022. The phone comes with a 5.00-inch display offering a resolution of 480x854 pixels.Itel A23S comes with 2GB of RAM. The Itel A23S runs Android 11 and is powered by a 3020mAh battery. As far as the cameras are concerned, the Itel A23S on the rear packs 2-megapixel camera. It has a single front camera setup for selfies, featuring an Unspecified sensor.",
+        "manufacturer": "Itel",
+        "Image": "img/Itel_A23S.png"
+      },
+      {
+        "itemId": 5,
+        "name": "Moto G32",
+        "price": 70,
+        "shortDescription": "Display: 6.70-inch (1080x2412)",
+        "description": "Moto G32 was launched in India on Tuesday at a price of Rs. 12,999. It sports a 6.5-inch display with 90Hz refresh rate, Snapdragon 680 SoC, a triple rear camera setup with 50-megapixel main sensor, and a 5,000mAh battery. It comes in two colour options. Moto G32 mobile was launched on 28th July 2022. The phone comes with a 90 Hz refresh rate 6.50-inch touchscreen display offering a resolution of 1080x2400 pixels (FHD+) and an aspect ratio of 20:9. Moto G32 is powered by a 2.4GHz Qualcomm Snapdragon 680 processor. It comes with 4GB of RAM. The Moto G32 runs Android 12 and is powered by a 5000mAh battery. The Moto G32 supports proprietary fast charging.",
+        "manufacturer": "Motorolla",
+        "Image": "img/Moto_G32.jpg"
+      },
+      {
+        "itemId": 6,
+        "name": "OnePlus Ace Pro",
+        "price": 20,
+        "shortDescription": "Display: 6.70-inch (1080x2412)",
+        "description": "OnePlus Ace Pro was launched in China on Tuesday. The smartphone features a 6.7-inch AMOLED display with a full-HD+ resolution and up to 120Hz refresh rate. Sporting identical specifications as the recently launched OnePlus 10T, the smartphone is powered by the Snapdragon 8+ Gen 1 SoC and sports a triple rear camera setup. The handset packs a 4,800mAh battery.",
+        "manufacturer": "OnePlus",
+        "Image": "img/OnePlus_Ace_Pro.jpg"
+      },
+      {
+        "itemId": 7,
+        "name": "Tecno Spark 9T",
+        "price": 39,
+        "shortDescription": "Display: 6.60-inch",
+        "description": "The Tecno Spark 9T was launched in India on July 28 and has been priced at Rs. 9,299 for the 4GB RAM + 64GB storage option. The smartphone will go on sale at 12am on August 6 via Amazon. It comes with a MediaTek Helio G35 SoC, and packs a 5,000mAh battery. Tecno Spark 9T mobile was launched on 28th July 2022. The phone comes with a 90 Hz refresh rate 6.60-inch touchscreen display (HD+). Tecno Spark 9T is powered by an octa-core MediaTek Helio G35 processor. It comes with 3GB of RAM. The Tecno Spark 9T runs Android and is powered by a 5000mAh battery",
+        "manufacturer": "Tecno",
+        "Image": "img/Tecno_Spark_9T.png"
+      },
+      {
+        "itemId": 8,
+        "name": "Vivo Y30 5G",
+        "price": 48,
+        "shortDescription": "Display: 6.70-inch (1080x2412)",
+        "description": "Vivo Y30 5G mobile was launched on 21st July 2022. The phone comes with a 6.51-inch touchscreen display offering a resolution of 720x1,600 pixels (HD+) and an aspect ratio of 20:9.Vivo Y30 5G comes with 6GB of RAM. The Vivo Y30 5G runs Android and is powered by a 5,000mAh non-removable battery. The Vivo Y30 5G supports proprietary fast charging.As far as the cameras are concerned, the Vivo Y30 5G on the rear packs a dual camera setup featuring a 50-megapixel primary camera, and a 2-megapixel camera. It has a single front camera setup for selfies, featuring an 8-megapixel sensor",
+        "manufacturer": "Vivo",
+        "Image": "img/Vivo_Y30_5G.png"
+      }
+    ]
+  }
